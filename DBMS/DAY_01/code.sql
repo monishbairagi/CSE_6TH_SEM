@@ -15,4 +15,3 @@ SELECT * FROM `student` WHERE roll=37;
 SELECT name,roll FROM `student` WHERE roll=37;
 
 SELECT name FROM `student` WHERE roll=37;
-
