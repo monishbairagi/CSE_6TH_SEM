@@ -1,4 +1,4 @@
--- creating STDU table
+-- creating DEPT table
 CREATE TABLE DEPT(
 	DID INT(3),
 	DN VARCHAR(10),
