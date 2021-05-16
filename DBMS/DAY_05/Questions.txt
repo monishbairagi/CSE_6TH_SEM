@@ -1,0 +1,9 @@
+1. Create the following schema.
+    a. Dept (DID, DName)
+    b. Student (SID, SName, DID, Marks)
+    c. ExtraCurricularDetail (EID, EName)
+    d. ExtraCurricularParticipation (SID, EID)
+2. Insert suitable data.
+3. Write one query to join the Dept and Student tables.
+4. Write one query to join the Student, ExtraCurricularDetail and ExtraCurricularParticipation tables.
+5. Write one query to join all the four tables.
