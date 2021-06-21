@@ -2,7 +2,7 @@
 Declare
     Begin
         dbms_output.put_line('Name: Monish Kr. Bairagi');
-		dbms_output.put_line('Mobile Number: 9038741205');
+	dbms_output.put_line('Mobile Number: 9038XXXXXX');
     end;
 
 -- 2) Calculate the average of three numbers and classify the average into three classes 'A', 'B', and 'C; respectively, use your own assumption.
